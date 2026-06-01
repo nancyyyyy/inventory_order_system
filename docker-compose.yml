@@ -1,0 +1,7 @@
+```yaml
+version: '3.9'
+
+services:
+  # We will add db, backend, frontend here later
+  placeholder:
+    image: hello-world
